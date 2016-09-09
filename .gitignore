@@ -1,3 +1,4 @@
 *.class
 *.pyc
 *.pyo
+site/conexao/config.php
