@@ -1,0 +1,22 @@
+.fundo-rodape{
+	background-color: #101010;
+}
+.azul-topsports{
+	color:#0064af;
+}
+.font-branco{
+	color: #FFFFFF;
+}
+.titulos{
+	color:#0064af;
+}
+.footer{
+	padding: 10px;
+}
+.footer ul{
+	margin: 0px;
+	padding: 0px;
+}
+.inputErro{
+	border: 1px solid red;
+}
